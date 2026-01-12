@@ -20,6 +20,6 @@ The following libraries need to be pre-installed to run portions of the scripts:
 ## Brief Description of the Files
 
 A brief description of the purpose of each script can be found below. Additional information and comments can be referenced in the scripts. 
-1. *1_Jamboree_Extract Samples.ipynb* -- cleans the Excel file from C3DC Hub and extracts samples from the MCI and RMS studies reference files from both CCDI and C3DC Hub
+1. *1_Jamboree_Extract Samples.ipynb* -- cleans the Excel file from C3DC Hub and extracts samples from the MCI and RMS studies reference files from both CCDI Hub and C3DC
 2. *2_Extract_DICOM_Metadata.ipynb* -- extracts metadata from all DICOM files in the sample and assesses the 3 data quality measures: consistency, completeness, and outliers
-3. *3_Clinical_Data_Analysis.ipynb* -- explores the general characteristics of the clinical data files (participant/case and sample/biospecimen) and assesses the 3 data quality measures: consistench, completeness, and outliers
+3. *3_Clinical_Data_Analysis.ipynb* -- explores the general characteristics of the clinical data files (participant/case and sample/biospecimen) and assesses the 3 data quality measures: consistency, completeness, and outliers

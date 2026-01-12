@@ -1,6 +1,6 @@
 # ODS Jamboree AI Readiness Project
 
-This repository contains three example python scripts (.ipynb files) developed during the NCI ODS Data Jamboree. The scripts are specific to the data types used in our project (imaging and clinical) and can be used as a example for others assessing the AI-readiness of datasets. 
+This repository contains three example python scripts (.ipynb files) developed during the NCI ODS Data Jamboree. The scripts are specific to the data types used in our project (imaging and clinical) and can be used as a example for others who are looking to assess the AI-readiness of datasets. 
 
 ## Environment
 
